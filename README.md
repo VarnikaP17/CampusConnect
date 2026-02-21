@@ -71,13 +71,6 @@ CampusConnect/
    ```
    http://localhost/CampusConnect
    ```
-
----
-
-## 📸 Screenshots
-
-*(You can add screenshots here later)*
-
 ---
 
 ## 📈 Key Highlights
