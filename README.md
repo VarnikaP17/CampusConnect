@@ -10,9 +10,9 @@ CampusConnect is a responsive web-based discussion forum designed for students t
 - 👥 Role-Based Access Control
 - 📝 Create, Read, Update, Delete (CRUD) Threads
 - 🔎 Search Functionality
-- 📱 Responsive & Mobile-Friendly UI
+- 📱 Responsive UI
 - 🗄️ Optimized SQL Queries for Performance
-- 🧩 Modular PHP Structure (Reusable Components)
+- 🧩 PHP Structure 
 
 ---
 
